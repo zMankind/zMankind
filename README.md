@@ -8,8 +8,8 @@ I enjoy turning raw data into reliable datasets, building data pipelines, and cr
 
 - **Languages:** Python, SQL
 - **Data Engineering:** dbt, Docker, ETL/ELT, Data Modelling
-- **Databases:** PostgreSQL, MongoDB
-- **Analytics & BI:** Metabase, Power BI
+- **Databases:** PostgreSQL, MongoDB, AMazon RDS
+- **Analytics & BI:** Metabase, Power BI, Looker
 - **Tools:** Git, GitHub, Linux, VS Code
 
 ### 🚀 What I'm Working On
