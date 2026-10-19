@@ -1,11 +1,28 @@
-- 👋 Hi, I’m @zMankind
-- 👀 I’m a data analyst
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data analytics projects.
-- 📫 you can reach me via my WA contact +23481 6884 5809
-- ⚡ Fun fact: i do the hard things
+# Hi, I'm a Data Engineer in Progress 👋
 
-<!---
-zMankind/zMankind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an Analytics Engineer working in fintech and payments, building my skills in data engineering and modern data infrastructure.
+
+I enjoy turning raw data into reliable datasets, building data pipelines, and creating solutions that help businesses make better decisions.
+
+### 🛠️ Tech Stack & Learning
+
+- **Languages:** Python, SQL
+- **Data Engineering:** dbt, Docker, ETL/ELT, Data Modelling
+- **Databases:** PostgreSQL, MongoDB
+- **Analytics & BI:** Metabase, Power BI
+- **Tools:** Git, GitHub, Linux, VS Code
+
+### 🚀 What I'm Working On
+
+- Building data pipelines and practising reliable data ingestion.
+- Learning data modelling, transformation, testing, and orchestration.
+- Exploring practical data engineering projects using real-world scenarios.
+- Applying engineering principles to fintech and payment transaction data.
+
+### 🎯 My Goal
+
+To become a strong Data Engineer who builds reliable, scalable, and maintainable data systems that turn raw data into business value.
+
+I'm documenting my learning journey through hands-on projects, experiments, and continuous improvement.
+
+**Always learning. Always building.**
